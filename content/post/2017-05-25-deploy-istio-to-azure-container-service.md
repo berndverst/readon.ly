@@ -8,7 +8,7 @@ Yesterday, IBM, Google and Lyft [announced Istio](https://developer.ibm.com/dwbl
 <!--more-->
 In this tutorial I will be showing you how to deploy Istio to a new Kubernetes cluster in Azure Container Service.
 
-### Creating a Azure Container Service Kubernetes Cluster
+### Creating an Azure Container Service Kubernetes Cluster
 
 #### A few prerequisites:
 
@@ -58,7 +58,6 @@ curl -L https://git.io/getIstio | sh -
 Navigate into the Istio folder and run
 
 ```bash
-kubectl apply -f install/kubernetes/istio.yaml
 kubectl apply -f install/kubernetes/istio-auth.yaml
 kubectl apply -f install/kubernetes/addons/prometheus.yaml
 kubectl apply -f install/kubernetes/addons/grafana.yaml
