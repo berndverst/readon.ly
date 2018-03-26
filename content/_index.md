@@ -1,2 +1,2 @@
 ## Welcome
-Hi, I'm Bernd! I am a `developer advocate` on the `Microsoft Azure` team, mainly focussed on the `Python` developer community. I previously worked on `cloud.gov` at 18F (a Heroku-like PaaS for the federal government) and the `Google Cloud Platform` team.
+Hi, I'm Bernd! I am a [Cloud Developer Advocate](developer.microsoft.com/advocates) on the Azure team at Microsoft. I blog about `Linux`, `Containers` (especially `Kubernetes`), `Python`, and various things I find interesting.

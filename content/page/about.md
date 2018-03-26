@@ -3,15 +3,17 @@ title: About me
 subtitle: Bernd Verst, Developer Advocate
 comments: false
 ---
+Hi, I'm Bernd, a [cloud developer advocate](developer.microsoft.com/advocates) on the Azure team at Microsoft.
 
-My name is Bernd Verst. I am a `developer advocate` on the [Microsoft Azure](https://azure.microsoft.com) team.
+At Microsoft my focus areas are `Linux`, `Containers` (in particular using `Kubernetes`) and `Python`.
 
-I focus on the `Python` developer community. Other things I dabble with include DevOps, Java, Scala, Android and iOS (Swift).
 
-Some of my past teams:
+Did you know the federal government operates a **Kubernetes** cluster and open-source **Cloud Foundry** in the public cloud to make government more efficient? Before joining Microsoft I worked for the **United States Government** ([18F](18f.gov) / [General Services Administration](gsa.gov)) on **cloud.gov** enabling government dev teams to ship web apps the modern way. My experience truly spans a variety of cloud providers and technologies:
 
-- [cloud.gov](https://cloud.gov) at [18F](https://18f.gov), a Heroku-like PaaS for the federal government.
-- The [Google Cloud Platform](https://cloud.google.com) team, where I worked primarily on App Engine, Big Query and CloudSQL.
-- [Twitter](https://twitter.com), where I was a developer advocate for the Fabric Mobile SDKs and the Ad Platform.
 
-For more info, check out my [LinkedIn](https://linkedin.com/in/verst).
+- At [Google Cloud](cloud.google.com) I focussed on **App Engine**, helped a then tiny startup called Snapchat with application architecture, and worked on the GA of **Google Compute Engine**.
+- At [Twitter](ads.twitter.com) I learned anything and everything about ad tech and deployed production apps to **Apache Mesos**.
+- At several startups in Silicon Valley, such as [Sift Science](siftscience.com) (YCombinator Summer '11), I used a variety of **AWS** services.
+
+
+Outside of work I enjoy running (half marathons and longer distances), playing jazz piano, karaoke, studying Chinese Mandarin, and engaging in a variety of outdoor activities. I'm passionate about mentoring students and those early in their careers to help them land their feet in the tech industry.
