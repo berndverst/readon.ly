@@ -1,15 +1,15 @@
 baseurl = "https://readon.ly"
 languageCode = "en-us"
-title = "Read Only"
+title = "Bernd's Blog"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-disqusShortname = "read-only"
+# disqusShortname = "read-only"
 googleAnalytics = "UA-96823561-1"
 
 [Params]
-  subtitle = "Bernd Verst, Developer Advocate"
+  subtitle = "Tech, music, games and more."
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -30,7 +30,7 @@ googleAnalytics = "UA-96823561-1"
 
 [Author]
   name = "Bernd Verst"
-  email = "me@readon.ly"
+  # email = "me@readon.ly"
   facebook = "verst"
   github = "berndverst"
   twitter = "berndverst"
@@ -39,7 +39,7 @@ googleAnalytics = "UA-96823561-1"
   snapchat = "pianolens"
   instagram = "berndverst"
   youtube = "berndverst" # or channel/channelname
-  # soundcloud = "username"
+  soundcloud = "berndverst"
   # spotify = "username"
 
 [[menu.main]]
